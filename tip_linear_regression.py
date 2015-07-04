@@ -191,6 +191,7 @@ print("RidgeRegression Mean Squared Error = " +str(MSE))
 MSE = linearRegression_f("L2_reg")
 print("Lasso Mean Squared Error = " +str(MSE))
 
+sc.top()
 
 # In[ ]:
 
